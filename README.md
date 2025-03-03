@@ -1,14 +1,13 @@
-# Plant Disease Classifier
+# Potato Disease Classifier
 
-An AI-powered app that helps identify plant diseases using images.
+An AI-powered app that helps identify potato diseases using images.
 
 ## Overview
 
-The Plant Disease Classifier is a machine learning-based application designed to help farmers and gardeners identify plant diseases through image recognition. The model is trained on a diverse dataset of plant images to accurately classify various diseases.
+The Potato Disease Classifier is a machine learning-based application designed to help farmers and gardeners identify potato diseases through image recognition. The model is trained on a diverse dataset containing images of potato leaves with and without diseases.
 
 ## Features
 
-- **AI-powered image classification**: Utilizes advanced machine learning algorithms to identify plant diseases.
 - **Multi-disease identification**: Capable of recognizing multiple plant diseases.
 - **User-friendly interface**: Easy-to-use interface for uploading and analyzing images.
 
@@ -16,7 +15,7 @@ The Plant Disease Classifier is a machine learning-based application designed to
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ayushpratapsingh1/Plant-Disease-Classifier.git
+    git clone https://github.com/ayushpratapsingh1/Potato-Disease-Classifier.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -38,7 +37,7 @@ The Plant Disease Classifier is a machine learning-based application designed to
     ```bash
     jupyter notebook
     ```
-2. Open `PlantDiseaseClassifier.ipynb` and follow the instructions to train the model on your dataset.
+2. Open `PotatoDiseaseClassifier.ipynb` and follow the instructions to train the model on your dataset.
 
 ### Running the Model
 
